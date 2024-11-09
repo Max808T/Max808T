@@ -32,5 +32,5 @@
 
 ### ⌨️: Наиболее исползуемые языки :
 <div> 
-<img src="https://github.com/anuraghazra/github-readme-stats.verccel.app/api/top-langs/?username=Max808T" alt=""/>
+<img src="https://github.com/github-readme-stats.verccel.app/api/top-langs/?username=Max808T" alt=""/>
 </div>
