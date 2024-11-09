@@ -34,3 +34,11 @@
 <div> 
 <img src="https://github.com/github-readme-stats.verccel.app/api/top-langs/?username=Max808T" alt=""/>
 </div>
+
+
+### :bar_chart: Статистика активности :
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Max808T&theme=drakula" alt=""/>
+</div>
+
