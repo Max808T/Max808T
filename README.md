@@ -26,13 +26,13 @@
 
 ### 🏆: Достижения: 
 <div>
-<img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=Max808T" alt=""/?
+<img src="https://ryo-ma/github-profile-trophy.vercel.app/?username=Max808T" alt=""/?
   
 </div>
 
 ### ⌨️: Наиболее исползуемые языки :
 <div> 
-<img src="https://github.com/github-readme-stats.verccel.app/api/top-langs/?username=Max808T" alt=""/>
+<img src="https://github-readme-stats.verccel.app/api/top-langs/?username=Max808T" alt=""/>
 </div>
 
 
