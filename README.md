@@ -23,3 +23,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="40" height="40"/>
 </div>
+
+### 🏆: Достижения: 
