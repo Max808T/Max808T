@@ -16,4 +16,10 @@
 ### :alien: ОБО МНЕ :
  - 💀: Факт обо мне №1
  - 🎲: Факт обо мне №2
- - 🏁: Факт обо мне №3 
+ - 🏁: Факт обо мне №3
+
+### 🛠️: Языки и инструменты :
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="40" height="40"/>
+</div>
